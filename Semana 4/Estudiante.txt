@@ -1,0 +1,5 @@
+
+Q03499A,Deyvid,Pariona Ramos,Ingeniería ,Huancayo,20
+l129301t,Juan ,Perez,Ciencias de la Salud ,Jauja,24
+
+L9876H,Maria,Rodriguez,Ciencias Administrativas y Contables,Chupaca,21
